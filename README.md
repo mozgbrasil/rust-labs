@@ -2,9 +2,7 @@
 
 ![valid XHTML][checkmark]
 
-# rust-labs
-
-2021-11-12-2
+# rust-labs 👉️
 
 ## Contribuição
 
